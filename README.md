@@ -13,3 +13,5 @@ The `Self Learning Agent` is a project that pushes the boundaries of automated l
 - **Self Fine-tuning**: One of the project's hallmarks is its ability to introspectively refine its performance. It doesn't just use the data; it evolves with it.
 
 - **Interpretation Post Fine-tuning**: After the fine-tuning process, the agent employs the Open Interpreter again but this time
+
+... in progress
